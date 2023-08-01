@@ -6,21 +6,21 @@ body {
 
 .body {
     text-align: center;
-    background-color: white ;
+    background-color: white;
     margin-left: 740px;
     margin-right: 740px;
     margin-bottom: 100px;
     margin-top: 400px;
     padding-bottom: 20px;
     border-radius: 50px;
-
 }
 
 .body h1 {
     font-family: 'Cherry Bomb One', cursive;
     font-size: 60px;
     color: aqua;
-    
+    margin-bottom: 0; /* h1要素の余分なmargin-bottomを削除 */
+    display: inline; /* h1要素をインライン要素に変更 */
 }
 
 .button {
