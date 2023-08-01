@@ -1,0 +1,32 @@
+body {
+    background-image: url(mcimg.png);
+
+}
+
+.body {
+    text-align: center;
+    background-color: white ;
+    margin-left: 740px;
+    margin-right: 740px;
+    margin-bottom: 100px;
+    margin-top: 400px;
+    padding-bottom: 20px;
+    border-radius: 50px;
+
+}
+
+.body h1 {
+    font-family: 'Cherry Bomb One', cursive;
+    font-size: 60px;
+    color: aqua;
+    
+}
+
+.button {
+    text-align: center;
+    
+}
+.button1 {
+    margin-left: 20px;
+    padding: 10px 30px 10px 30px;
+}
