@@ -20,9 +20,10 @@ html {
     font-family: 'Cherry Bomb One', cursive;
     font-size: 60px;
     color: aqua;
-    margin-bottom: 0; /* h1要素の余分なmargin-bottomを削除 */
-    display: inline; /* h1要素をインライン要素に変更 */
+    margin-bottom: 0;
+    display: inline-block; /* インラインブロック要素に変更 */
 }
+
 
 .button {
     text-align: center;
