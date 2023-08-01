@@ -1,7 +1,8 @@
-body {
+html {
+    /* 背景画像を全体に広がるように設定 */
     background-image: url(mcimg.png);
     background-repeat: no-repeat;
-
+    background-size: cover;
 }
 
 .body {
@@ -25,8 +26,8 @@ body {
 
 .button {
     text-align: center;
-    
 }
+
 .button1 {
     margin-left: 20px;
     padding: 10px 30px 10px 30px;
